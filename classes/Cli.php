@@ -7,7 +7,7 @@
  * @package  Kohana
  * @category Classes
  * @author  Phil Sturgeon
- * @autor  Shane Pearson
+ * @author  Shane Pearson
  * @link  http://fuelphp.com/docs/classes/cli.html
  */
 class Cli {
